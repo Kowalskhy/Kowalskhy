@@ -1,11 +1,12 @@
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer from Brazil</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently working on Python and JavaScript projects.
-🌱 I’m currently learning *Full stack development, working on both front-end and back-end aspects.
+  🔭 I’m currently working on Python and JavaScript projects.
+  
+  🌱 I’m currently learning *Full stack development, working on both front-end and back-end aspects.
 
 </div>
 
